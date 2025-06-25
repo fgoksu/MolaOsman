@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.sqlite3
+
+# FastAPI
+instance/
+.env
+
+# Node/Vue
+node_modules/
+dist/
+.env.local
+.vitepress/cache/
+*.log
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
